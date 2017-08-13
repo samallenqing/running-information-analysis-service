@@ -45,7 +45,7 @@ java -jar running-information-analysis-service-1.0.0.BUILD-SNAPSHOT.jar
 
 ## Step5 - Running testCase.json by Postman
 
-Open file "testCase.json" copy and paste all the datas to Postman body part and choose file type Json. The port is 9001, So the url should starts as"http://localhost:9001/".
+Open file "testCase.json" copy and paste all the datas to Postman body part and choose file type Json. The port is 9001, So the url should start as "http://localhost:9001/".
 
 | Rest URL|  Http Method     | Description     |
 | :------------- | :------------- | :------------- | 
