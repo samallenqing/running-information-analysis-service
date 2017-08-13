@@ -64,9 +64,9 @@ select * from Running_Analysis where username = 'ross0';
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Atom](https://atom.io/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Docker](https://www.docker.com/) - Used to generate Docker images
 
 ## Authors
 
