@@ -28,7 +28,7 @@ If you have installed MySql open a new terminal run the following cmd. Because I
 ```
  mysql --host=127.0.0.1 --port=3306 --user=root --password=1
 ```
-Now we need create a new table for the service to store datas. Here use the file name "running_information_analysis_service_db". Use the same terminal above enter the following ```
+Now we need create a new table for the service to store datas. Here use the file name "running_information_analysis_service_db". Use the same terminal above enter the following cmd.
 
 ```
 create database running_information_analysis_service_db;
